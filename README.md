@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my world!
+
 I, chenjintang-shrimp, is a 9th grader, a developer, and a rhythm player.
+
 Working on C/C++, C# and Python now.
+
 Using Windows 11 + Ubuntu / Arch (WSL) / Kali Linux (WSL)
+
 Enjoys contributing, but not creating (I'm sad that i dont have many ideas...)
