@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Welcome to my world!
 
-I, chenjintang-shrimp, is a 9th grader, a developer, and a rhythm game player.
+I, chenjintang-shrimp, is a 10th grader, a developer, and a rhythm game player.
 
 Working on C/C++, C# and Python now.
 
