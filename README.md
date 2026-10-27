@@ -22,11 +22,22 @@ Password:
 
 **「火焰般的生命啊，随时可能熄灭。」**
 
-![README Views](https://komarev.com/ghpvc/?username=chenjintang-shrimp&color=blue)
+<sub>福州 · 16 岁高中生 · 前算法竞赛选手 · osu! 重度玩家 · 啥都知道但啥都不明白</sub>
 
-福州 · 高中生 · 前算法竞赛选手 · osu! 重度玩家
+[![GitHub](https://img.shields.io/badge/GitHub-chenjintang--shrimp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chenjintang-shrimp)
+[![X](https://img.shields.io/badge/X-@cjt__shrimp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cjt_shrimp)
+[![Blog](https://img.shields.io/badge/Blog-dev.cxshrimp.qzz.io-2EA043?style=for-the-badge&logo=astro&logoColor=white)](https://dev.cxshrimp.qzz.io)
 
-啥都知道，但啥都不明白
+[![Followers](https://img.shields.io/github/followers/chenjintang-shrimp?style=flat-square&logo=github&label=Followers&color=2ea043)](https://github.com/chenjintang-shrimp?tab=followers)
+[![Stars](https://img.shields.io/github/stars/chenjintang-shrimp?style=flat-square&logo=github&label=Stars&color=2ea043)](https://github.com/chenjintang-shrimp?tab=repositories)
+![Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchenjintang-shrimp&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=2ea043)
+![Profile Views](https://komarev.com/ghpvc/?username=chenjintang-shrimp&style=flat-square&color=2ea043&label=Views)
+
+<sub>
+
+`C/C++` · `C#` · `Python` · `Rust` · `TypeScript` · `Typst` · `PowerShell`
+
+</sub>
 
 </div>
 
@@ -39,6 +50,32 @@ Password:
 所以这里的仓库挺杂的：有人排座位排到崩溃，于是有了约束求解器；有还原软件老是吃掉系统改动，于是有了直接对磁盘下手的内核层工具；有台根本不存在的 16 位机器，于是我把它的 CPU、汇编器和 BASIC 解释器都写出来了。
 
 早年那个「喜欢贡献但不太会创造」的我，现在看来说早了（x
+
+---
+
+```bash
+[cjt@shrimp ~]$ ./contributions --last-year
+```
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg">
+  <img alt="GitHub contributions heatmap for the last year" src="assets/heatmap-light.svg">
+</picture>
+
+<sub>这张图不走第三方图表服务，由 [<code>scripts/gen-heatmap.py</code>](scripts/gen-heatmap.py) 直接读 GitHub GraphQL 的 contribution calendar 画出来。</sub>
+
+<br>
+
+<table>
+<tr>
+<td><img alt="Streak stats" src="https://streak-stats.demolab.com/?user=chenjintang-shrimp&theme=default&hide_border=true&locale=zh&card_width=420"></td>
+<td><img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenjintang-shrimp&layout=compact&langs_count=6&hide_border=true"></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -61,6 +98,8 @@ Password:
 ```
 
 日常环境是 Windows 11，加一台 Kubuntu，WSL 里再压着 Arch 和 Kali。哪个能跑就用哪个。
+
+顺带一提，就算在 Linux 上我也是 `pwsh` 照用不误——不太接受反驳呢。
 
 ---
 
@@ -132,6 +171,28 @@ osu! 的私人服务器那一侧。
 
 ---
 
+```bash
+[cjt@shrimp ~]$ history | grep 游戏
+```
+
+```plain
+2015  狂野飙车 8
+2016  狂野飙车 8
+2017  Minecraft（网易）
+2018  Minecraft（网易）
+2019  Minecraft（网易）
+2020  Minecraft (Java)
+2021  Minecraft (Java)
+2022  Minecraft (Java)
+2023  Phigros
+2024  Phigros
+2025  osu!
+```
+
+十年就换了四个游戏，然后停在了 osu!。
+
+---
+
 ## 提交都散在哪些仓库
 
 以下是按 GitHub 提交搜索口径数出来的（这个口径会漏掉用别的邮箱推的提交，实际只会更多）：
@@ -187,5 +248,7 @@ GooGuTeam(admin)  SECTL  FireflyOpenSourceLab  Tinadec  LKM-AHZ  ProjectHazelita
 <div align="center">
 
 [GitHub](https://github.com/chenjintang-shrimp) · [X / Twitter](https://x.com/cjt_shrimp) · [Blog](https://dev.cxshrimp.qzz.io)
+
+<sub>If you're reading this at 1,200 characters per minute, I know exactly how you feel.</sub>
 
 </div>
